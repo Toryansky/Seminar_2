@@ -12,7 +12,6 @@ internal class Program
         {
             Console.WriteLine("Вторая цифра числа " + number % 100 / 10);
         }
-
         ShowSecondDigit(ThreeDigitNumber);
     }
 }
